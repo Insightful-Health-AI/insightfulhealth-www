@@ -6,7 +6,6 @@
 - [ ] Add integration with ADO/Github Issues
 
 ## Home Page
-![Home](https://github.com/VisualQAI/Website/blob/main/images/WebsiteScreenShots/home.png)
 
 ### changes needed to home page 
 
@@ -23,7 +22,6 @@
 
 
 ## Intro
-![Intro](https://github.com/VisualQAI/Website/blob/main/images/WebsiteScreenShots/Intro.png)
 
 ### changes needed to Intro page 
 
